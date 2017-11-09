@@ -1,0 +1,6 @@
+C:\Users\flht001\Documents\000 - DEV\PERSO\C#\MVA\C# Fundamentals for Absolute Beginners\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\flht001\Documents\000 - DEV\PERSO\C#\MVA\C# Fundamentals for Absolute Beginners\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\flht001\Documents\000 - DEV\PERSO\C#\MVA\C# Fundamentals for Absolute Beginners\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\flht001\Documents\000 - DEV\PERSO\C#\MVA\C# Fundamentals for Absolute Beginners\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\flht001\Documents\000 - DEV\PERSO\C#\MVA\C# Fundamentals for Absolute Beginners\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\flht001\Documents\000 - DEV\PERSO\C#\MVA\C# Fundamentals for Absolute Beginners\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
